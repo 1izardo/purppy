@@ -49,10 +49,10 @@ Assorted colours for various other UI components.
 ### To-Do
 
 - [ ] [vs-code](https://code.visualstudio.com/)
-- [ ] [notion-enhancer](https://notion-enhancer.github.io/) (Notion)
-- [ ] [spicetify-cli](https://spicetify.app/) (Spotify)
+- [ ] [notion-enhancer](https://notion-enhancer.github.io/)&nbsp;(Notion)
+- [ ] [spicetify-cli](https://spicetify.app/)&nbsp;(Spotify)
 - [ ] [obsidian](https://obsidian.md/)
-- [ ] [chrome](https://chrome.google.com/) (and other Chromium browsers)
+- [ ] [chrome](https://chrome.google.com/)&nbsp;(and other Chromium browsers)
 
 ## Credits
 
