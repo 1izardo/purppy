@@ -53,3 +53,7 @@ Assorted colours for various other UI components.
 - [ ] [spicetify-cli](https://spicetify.app/) (Spotify)
 - [ ] [obsidian](https://obsidian.md/)
 - [ ] [chrome](https://chrome.google.com/) (and other Chromium browsers)
+
+## Credits
+
+Thank you to [@svengreb](https://github.com/svengreb) and [@articicestudio](https://github.com/arcticicestudio) for their amazing work on Nord.
