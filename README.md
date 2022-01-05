@@ -44,11 +44,10 @@ Assorted colours for various other UI components.
 
 ### Completed
 
-*Nothing at the moment! Please star this project and check back later.*
+- [VS Code](https://marketplace.visualstudio.com/items?itemName=1izardo.purppy-vs-code)
 
 ### To-Do
 
-- [ ] [vs-code](https://code.visualstudio.com/)
 - [ ] [notion-enhancer](https://notion-enhancer.github.io/)&nbsp;(Notion)
 - [ ] [spicetify-cli](https://spicetify.app/)&nbsp;(Spotify)
 - [ ] [obsidian](https://obsidian.md/)
