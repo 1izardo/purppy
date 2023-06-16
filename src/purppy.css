@@ -172,11 +172,11 @@ Styleguide Purppy
   Used for errors, git/diff deletion and linter marker.
 
   Markup:
-  <div style="background-color:#c36b8b; width=60; height=60"></div>
+  <div style="background-color:#d3787b; width=60; height=60"></div>
 
   Styleguide Purppy - Awwrora
   */
-  --purppy11: #c36b8b;
+  --purppy11: #d3787b;
 
   /*
   Colorful component color.
@@ -184,11 +184,11 @@ Styleguide Purppy
   Used for annotations.
 
   Markup:
-  <div style="background-color:#d3787b; width=60; height=60"></div>
+  <div style="background-color:#ecb48f; width=60; height=60"></div>
 
   Styleguide Purppy - Awwrora
   */
-  --purppy12: #d3787b;
+  --purppy12: #ecb48f;
 
   /*
   Colorful component color.
@@ -197,11 +197,11 @@ Styleguide Purppy
   In the UI scope used for warnings and git/diff renamings.
 
   Markup:
-  <div style="background-color:#ecb48f; width=60; height=60"></div>
+  <div style="background-color:#b5c292; width=60; height=60"></div>
 
   Styleguide Purppy - Awwrora
   */
-  --purppy13: #ecb48f;
+  --purppy13: #b5c292;
 
   /*
   Colorful component color.
@@ -210,11 +210,11 @@ Styleguide Purppy
   In the UI scope used for git/diff additions and success visualizations.
 
   Markup:
-  <div style="background-color:#b5c292; width=60; height=60"></div>
+  <div style="background-color:#8ab8c5; width=60; height=60"></div>
 
   Styleguide Purppy - Awwrora
   */
-  --purppy14: #b5c292;
+  --purppy14: #8ab8c5;
 
   /*
   Colorful component color.
@@ -222,9 +222,9 @@ Styleguide Purppy
   Used for numbers.
 
   Markup:
-  <div style="background-color:#8ab8c5; width=60; height=60"></div>
+  <div style="background-color:#c36b8b; width=60; height=60"></div>
 
   Styleguide Purppy - Awwrora
   */
-  --purppy15: #8ab8c5;
+  --purppy15: #c36b8b;
 }
